@@ -1,1 +1,0 @@
-(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[232],{7417:function(n,u,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/ott",function(){return t(20)}])},20:function(n,u,t){"use strict";t.r(u),u.default=()=>{}}},function(n){n.O(0,[888,774,179],function(){return n(n.s=7417)}),_N_E=n.O()}]);
